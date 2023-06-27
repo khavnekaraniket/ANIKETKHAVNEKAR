@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aniket Khavnekar</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
-<img src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" alt="Coding" width="400" alt="khavnekaraniket" />
+<img src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" AUTO align="right" alt="Coding" width="400" alt="khavnekaraniket" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khavnekaraniket&label=Profile%20views&color=0e75b6&style=flat" alt="khavnekaraniket" /> </p>
 
